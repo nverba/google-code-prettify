@@ -1,0 +1,22 @@
+{
+  "name": "google-code-prettify",
+  "version": "1.0.1",
+  "homepage": "https://code.google.com/p/google-code-prettify/",
+  "description": "A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.",
+  "main": [
+    "./bin/prettify.min.css",
+    "./bin/prettify.min.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcollard/google-code-prettify.git"
+  },
+  "keywords": [
+    "Google",
+    "js",
+    "JavaScript",
+    "code",
+    "prettify"
+  ],
+  "license": "ALv2"
+}
